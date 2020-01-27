@@ -778,7 +778,7 @@ head.insertBefore(script, head.firstChild);
           <a class='notranslate' expr:href='data:blog.canonicalHomepageUrl' expr:title='data:blog.title'>
             <data:blog.title/>
           </a>.</p>
-	<!--DIHARAPKAN TIDAK MENGHAPUS CREDIT LINK-->
+	<!--EXPECTED NOT TO REMOVE CREDIT LINK-->
         <p class='pull-right'>
           Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mastekno' rel='nofollow external' title='MasTekno.com'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
         </p>
