@@ -109,7 +109,7 @@
         ul,ol,li{display:none}
       ]]></b:skin>
     </b:if>
-<link href='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-mastekno/master/mediumish-green.css' rel='stylesheet'/>
+<link href='https://cdn.statically.io/gh/i88ca/mediumish-blogger-mastekno/master/mediumish-green.css' rel='stylesheet'/>
     <style>
       html {
       -webkit-animation: fadein 1s;
@@ -217,13 +217,13 @@ head.insertBefore(script, head.firstChild);
         <div class='row justify-content-center align-items-center brandrow'>
           <div class='col-lg-4 col-md-4 hidden-xs-down customarea'>
 <!-- Sesuaikan Menu Profil -->
-            <a class='btn follow' href='https://www.blogger.com/follow.g?view=FOLLOW&amp;blogID=ID-BLOGMU' rel="nofollow" target='blank'><i class='fa fa-user'/> Follow</a>
-            <a href='#' target='_blank' rel="nofollow"> <i class='fa fa-facebook social'/></a>
-            <a href='#' target='_blank' rel="nofollow"> <i class='fa fa-instagram social'/></a>
+            <a class='btn follow' href='https://www.blogger.com/follow.g?view=FOLLOW&amp;blogID=ID-BLOGMU' rel='nofollow' target='blank'><i class='fa fa-user'/> Follow</a>
+            <a href='#' rel='nofollow' target='_blank'> <i class='fa fa-facebook social'/></a>
+            <a href='#' rel='nofollow' target='_blank'> <i class='fa fa-instagram social'/></a>
           </div>
           &lt;!--
           <b:section id='Header' showaddelement='no'>
-            <b:widget id='Header1' locked='true' title='Mediumish (Header)' type='Header' version='1'>
+            <b:widget id='Header1' locked='true' title='Pro Technology (Header)' type='Header' version='1'>
               <b:widget-settings>
                 <b:widget-setting name='displayUrl'/>
                 <b:widget-setting name='displayHeight'>0</b:widget-setting>
@@ -323,7 +323,7 @@ head.insertBefore(script, head.firstChild);
     </b:if>
     &lt;!--
     <b:section id='Blog' showaddelement='no'>
-      <b:widget id='Blog1' locked='true' title='Posting Blog' type='Blog' version='1'>
+      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
         <b:widget-settings>
           <b:widget-setting name='showDateHeader'>true</b:widget-setting>
           <b:widget-setting name='commentLabel'>Comment</b:widget-setting>
@@ -790,14 +790,14 @@ head.insertBefore(script, head.firstChild);
 <b:if cond='data:view.isHomepage'>
 <script>
   //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+  var scripts = ["https://cdn.statically.io/gh/i88ca/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
   </script>
-  <script src='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-homes.js'/>
+  <script src='https://cdn.statically.io/gh/i88ca/mediumish-blogger-assets/master/main-homes.js'/>
 <b:else/>
   <script>
     //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+  var scripts = ["https://cdn.statically.io/gh/i88ca/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
 </script>
  </b:if>
