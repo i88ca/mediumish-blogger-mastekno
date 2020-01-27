@@ -773,8 +773,8 @@ head.insertBefore(script, head.firstChild);
     <div class='container'>
       <footer class='footer' itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WPFooter'>
         <p class='pull-left'>
-			<a href='#' title='Tentang Kami'>Tentang Kami</a> &#8226; <a href='#' title='Menu 2'>Contact</a> &#8226; <a href='/p/disclaimers.html' title='Menu 3'>Disclaimer</a> &#8226; <a href='#' title='Menu 4'>Privacy Policy</a><br/>
-        &#169; Copyright 2019 
+			<a href='#' title='About Us'>About Us</a> &#8226; <a href='#' title='Contact'>Contact</a> &#8226; <a href='/p/disclaimers.html' title='Disclaimer'>Disclaimer</a> &#8226; <a href='#' title='Privacy Policy'>Privacy Policy</a><br/>
+        &#169; Copyright 2020 
           <a class='notranslate' expr:href='data:blog.canonicalHomepageUrl' expr:title='data:blog.title'>
             <data:blog.title/>
           </a>.</p>
