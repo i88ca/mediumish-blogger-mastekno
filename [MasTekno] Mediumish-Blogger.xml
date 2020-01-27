@@ -314,7 +314,7 @@ head.insertBefore(script, head.firstChild);
         &lt;div class=&#39;section-title&#39;&gt; &lt;h2&gt; 
         &lt;span&gt;
         <b:if cond='data:view.isMultipleItems'>
-          Artikel Terbaru
+          Recent Articles
           <b:elseif cond='data:view.isPage'/>
           <data:view.title/>
         </b:if>
