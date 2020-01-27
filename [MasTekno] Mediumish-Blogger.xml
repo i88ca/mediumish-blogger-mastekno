@@ -282,7 +282,7 @@ head.insertBefore(script, head.firstChild);
             <div class='collapse navbar-collapse' id='bs4navbar'>
               <ul class='navbar-nav col-md-12 justify-content-center' id='menu-menu'>
 <!-- Sesuaikan Menu Navigasi Utama -->
-                <li class='menu-item nav-item'><span itemprop='name'><a class='nav-link' href='/' itemprop='url'>Beranda</a></span></li>
+                <li class='menu-item nav-item'><span itemprop='name'><a class='nav-link' href='/' itemprop='url'>Home</a></span></li>
                 <li class='menu-item nav-item'><span itemprop='name'><a class='nav-link' href='#' itemprop='url'>Menu</a></span></li>
                 <li class='menu-item nav-item dropdown'>
                   <a class='nav-link dropdown-toggle' href='#'>Menu</a>
